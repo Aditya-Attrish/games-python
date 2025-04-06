@@ -1,1 +1,3 @@
-# Snake game using pygame libary in pytion.
+# Games using pygame & tkinter libaries in pytion.
+- Snake Game
+- Tik Toe Tok Game
